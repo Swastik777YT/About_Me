@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Swastik777YT
+- 👋 Hi, I’m @Swastik
 - 👀 I’m interested in Minecraft Skyblock
 - 🌱 I’m currently learning How to make a plugin
 - 💞️ I’m looking to collaborate on some plugins
